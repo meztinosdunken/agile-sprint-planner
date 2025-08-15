@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "build": "webpack",
-    "test": "jest"  // Added command to run tests
+    "test": "jest",  // Added command to run tests
   },
   "dependencies": {},
   "devDependencies": {
