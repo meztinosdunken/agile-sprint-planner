@@ -9,6 +9,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Handle GET request to the root URL
 app.get('/', (req, res) => {
+  // Send the index.html file to the client
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
