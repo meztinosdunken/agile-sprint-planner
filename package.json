@@ -16,5 +16,9 @@
   },
   "author": "Your Name",
   "license": "MIT",
-  "keywords": ["agile", "sprint", "planning", "tracking", "templates"]
+  "keywords": ["agile", "sprint", "planning", "tracking", "templates"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/agile-sprint-planner.git"
+  }
 }
