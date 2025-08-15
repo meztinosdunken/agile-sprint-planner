@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "build": "webpack"
+    "build": "webpack",
+    "test": "jest"  // Added command to run tests
   },
   "dependencies": {},
   "devDependencies": {
     "webpack": "^5.0.0",
-    "webpack-cli": "^4.0.0"
+    "webpack-cli": "^4.0.0",
+    "jest": "^27.0.0" // Added Jest for testing
   },
   "author": "Your Name",
   "license": "MIT",
