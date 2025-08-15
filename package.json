@@ -1,0 +1,17 @@
+{
+  "name": "agile-sprint-planner",
+  "version": "1.0.0",
+  "description": "A web-based application to facilitate planning and tracking of agile sprints with customizable templates.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "webpack"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
